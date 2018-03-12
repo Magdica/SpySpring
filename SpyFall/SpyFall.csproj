@@ -100,7 +100,12 @@
     <Content Include="app\dist\main.js" />
     <Content Include="app\dist\manifest.js" />
     <Content Include="app\dist\vendor.js" />
+    <Content Include="app\src\button.jsx" />
+    <Content Include="app\src\createGameScreen.jsx" />
     <Content Include="app\src\index.jsx" />
+    <Content Include="app\src\menuScreen.jsx" />
+    <Content Include="app\src\playerList.jsx" />
+    <Content Include="app\src\rulesScreen.jsx" />
     <Content Include="app\webpack.config.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
@@ -133,6 +138,7 @@
     <Content Include="Views\web.config" />
     <Content Include="app\package-lock.json" />
     <Content Include="app\package.json" />
+    <Content Include="app\src\home.less" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
